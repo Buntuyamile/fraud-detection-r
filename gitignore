@@ -1,0 +1,13 @@
+# Data
+creditcard.csv
+*.csv
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
